@@ -1,25 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pravin Pawar</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-Hello, I am Pravin Pawar Final year Undergraduating student in <br>
-Information Technology from Government college of engineering <br>
-karad.I want to learn more about the software and development <br>
-industry, it gives me an idea of how these fields are constantly<br>
-evolving. Looking for a suitable position in a company which <br>
-encourages creative thinking , recognition & career growth. To<br>
-make positive contribution as part of a dynamic and well reputed<br>
-organization in a challenging position where my technical/managerial<br>
-skills will be utilized towards continuous growth and advancement <br>
-with a view to enhance organizational efficiency and profitability <br>
-along with professional satisfaction
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<div class="boxed">
+Hello, I am Pravin Pawar Final year Undergraduating student in Information Technology from Government college of engineering karad.I want to learn more about the software and development industry, it gives me an idea of how these fields are constantly evolving. Looking for a suitable position in a company which encourages creative thinking , recognition & career growth. To make positive contribution as part of a dynamic and well reputed organization in a challenging position where my technical/managerial skills will be utilized towards continuous growth and advancement with a view to enhance organizational efficiency and profitability along with professional satisfaction</div><br><br>
 ◆ MY TECH STACK:<br>
  •Programming lang: C, C++, Python, MySQL,Core Java.<br>
  •Data structure And Design and analysis Of algorithms.<br>
  •Web Developement: HTML,CSS, JAVASCRIPT.<br>
  •Academics: O.S,DBMS.<br>
 <br><br>
-Yes, there's certainly yet more to learn, yet more problems to solve, And yet more to build. And for that , I am very grateful and Eager.Thank you.<br><br>
+Yes, there's certainly yet more to learn, yet more problems to solve, And yet more to build. And for that , I am very grateful and Eager.<br><br>Thank you.<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/pravin-pawar-5b0a09193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pravin-pawar-5b0a09193" height="30" width="40" /></a>
